@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VkJ7okLnPBTy0/giphy.gif" width="300"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/59d1zo8SUSaUU/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
   <a href='t.me/lll10010010'>
@@ -17,12 +17,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=1001001010&style=for-the-badge&color=000000" alt=""/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/59d1zo8SUSaUU/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -51,6 +45,6 @@
 ---
 
 ### My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1001001010&theme=dark&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1001001010&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
