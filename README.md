@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://nztcdn.com/avatar/l/1694959183/3494508.webp" width="100"/>
+  <img src="https://media.giphy.com/media/VkJ7okLnPBTy0/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href='t.me/lll10010010'>
