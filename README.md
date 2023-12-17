@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=1001001010&style=flat-square&color=black" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=1001001010&style=for-the-badge&color=000000" alt=""/>
 <!--
 **1001001010/1001001010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
