@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/59d1zo8SUSaUU/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
-  <a href='t.me/lll10010010'>
+  <a href='https://t.me/lll10010010'>
     <img src="https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   
