@@ -19,9 +19,3 @@
   <img src="https://komarev.com/ghpvc/?username=1001001010&style=for-the-badge&color=000000" alt=""/>
 </div>
 
----
-
-### My Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1001001010&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
